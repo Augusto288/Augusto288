@@ -55,18 +55,11 @@ align="left"
  alt="Github stats"
  height="200"
  style="padding-right: 18px;" 
-src="https://github-readme-stats.vercel.app/api?username=augusto288&show_icons=true&theme=radical&include_all_commits=true" />
+src="https://github-readme-stats.vercel.app/api?username=Augusto288&show_icons=true&theme=radical&include_all_commits=true" />
 
 <img 
 align="left"
  alt="Github stats"
  height="200"
  style="padding-right: 18px;" 
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=augusto288&theme=radical&layout=compact&custom_tittle=Tecnologias&langs_count=7" />
-
-
-
-
-   
-
-    
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=Augusto288&theme=radical&layout=compact&custom_tittle=Tecnologias&langs_count=7" />
