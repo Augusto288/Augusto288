@@ -36,11 +36,11 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-ori
 
 <img 
 align="left"
- alt="VScode"
- title="VScode"
+ alt="Giphy"
+ title="Giphy"
  width="200px"
  style="padding-right: 18px;" 
-src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExazRqaHB0cmRiZGxzazJ5YWNlZ3Q5NDg5dDVtMThiYjNpZXc3eDFmdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/137EaR4vAOCn1S/giphy.gif" />
+src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXZpaXk4MmNmMnl4bmRtcWMxdWU4dWNrdWk1Nmo3aXc3empmMm1ueiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1C8bHHJturSx2/giphy.gif" />
 
 
 <Br/>
