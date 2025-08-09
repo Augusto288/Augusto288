@@ -11,7 +11,7 @@ align="left"
  title="C"
  width="30px"
  style="padding-right: 18px;"  
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-plain.svg" />
+src="https://icongr.am/devicon/c-plain.svg?size=128&color=4340f2" />
            
 
 <img 
