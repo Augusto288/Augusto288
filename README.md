@@ -37,7 +37,7 @@ align="left"
  title="intelliJ"
  width="30px"
  style="padding-right: 18px;" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" />
 
           
 <img 
